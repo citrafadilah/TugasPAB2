@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "772944741867",
+    "firebase_url": "https://tugaspab2-d388b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugaspab2-d388b",
+    "storage_bucket": "tugaspab2-d388b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772944741867:android:0ad14241d2b4845bd085ae",
+        "android_client_info": {
+          "package_name": "com.example.mahasiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJ5ASih9OcLhAY_ghE575XuxcscVlqLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
